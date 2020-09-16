@@ -3,7 +3,7 @@ Just One| Just Two
 ------------ | -------------
 Content One | Content Two
 Content in the first column | Content in the second column
-![Image of Yaktocat](https://octodex.github.com/hulatocat/)
+![Image of Yaktocat](https://octodex.github.com/images/carlostocat.gif)
 <!--
 **KarlLarl/KarlLarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
