@@ -1,7 +1,7 @@
 ### Hi ,I'm Meen 👋
-First Header | Second Header
+Just One| Just Two
 ------------ | -------------
-Content from cell 1 | Content from cell 2
+Content One | Content Two
 Content in the first column | Content in the second column
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 <!--
