@@ -1,6 +1,6 @@
 ### Hi ,I'm Meen 👋
 
-![Image of Yaktocat](https://octodex.github.com/images/carlostocat.gif =250px)
+![Image of Yaktocat](https://octodex.github.com/images/carlostocat.gif)
 <!--
 **KarlLarl/KarlLarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
